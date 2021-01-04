@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm run server`
 
-Runs the json-server before running the app or test. 
+Runs the json-server before running the app or test.<br />
 Open [http://localhost:3030](http://localhost:3030) to see the data in the browser.
 
 ### `npm start`
