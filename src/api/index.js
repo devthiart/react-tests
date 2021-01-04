@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3001';
+const API_URL = 'http://localhost:3030';
 const TRANSACOES_URI = `${API_URL}/transacoes`;
 const CONTA_URI = `${API_URL}/conta`;
 
